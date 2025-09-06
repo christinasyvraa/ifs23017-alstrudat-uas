@@ -1,0 +1,6 @@
+Peta Jalur Wilayah:
+Aek Bolon Jae -> Aek Bolon Julu (4.2km), Bonan Dolok (3.6km)
+Aek Bolon Julu -> Aek Bolon Jae (4.2km), Lumban Bagasan (3.3km)
+Bonan Dolok -> Aek Bolon Jae (3.6km), Lumban Bagasan (5.1km)
+Lumban Bagasan -> Bonan Dolok (5.1km), Aek Bolon Julu (3.3km)
+Tidak ada jalur dari Lumban Bagasan ke Jakarta

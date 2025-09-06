@@ -1,0 +1,8 @@
+Pelabuhan Ratu, Sukabumi, Cianjur, Bandung, Garut
+Pelabuhan Ratu=>Sukabumi:45.5
+Sukabumi=>Cianjur:60.2
+Cianjur=>Bandung:75.0
+Bandung=>Garut:85.3
+FINISH
+Garut=>Pelabuhan Ratu
+1|Menggunakan Mobil|70

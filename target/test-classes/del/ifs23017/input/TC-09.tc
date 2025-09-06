@@ -1,0 +1,13 @@
+Bumi, Mars, Jupiter, Europa, Saturnus, Titan, Uranus, Neptunus, Pluto, Exoplanet-X
+Bumi=>Mars:78
+Mars=>Jupiter:550
+Jupiter=>Europa:0.6
+Europa=>Saturnus:650
+Saturnus=>Titan:1.2
+Titan=>Uranus:1400
+Uranus=>Neptunus:1600
+Neptunus=>Pluto:2400
+Pluto=>Exoplanet-X:5900
+FINISH
+Exoplanet-X=>Bumi
+1|Quantum Jump Drive|1000000

@@ -1,0 +1,16 @@
+Peta Jalur Wilayah:
+Danau Toba -> Parapat (15.5km)
+Medan -> Tebing Tinggi (75.3km)
+Parapat -> Pematang Siantar (60.8km), Danau Toba (15.5km)
+Pematang Siantar -> Tebing Tinggi (45.2km), Parapat (60.8km)
+Tebing Tinggi -> Medan (75.3km), Pematang Siantar (45.2km)
+
+Daftar Jarak terdekat dari Danau Toba ke Medan:
+Jalur 1 (196.8km): Parapat (15.5km) -> Pematang Siantar (60.8km) -> Tebing Tinggi (45.2km) -> Medan (75.3km)
+
+Menggunakan Mobil dari Jalur 1 sejauh 196.8km dengan kecepatan 65km/jam.
+Waktu yang perlu ditempuh untuk mencapai tujuan: 181.66 menit
+-> Tiba di Parapat sejauh 15.5km selama 14.31 menit
+-> Tiba di Pematang Siantar sejauh 60.8km selama 56.12 menit
+-> Tiba di Tebing Tinggi sejauh 45.2km selama 41.72 menit
+-> Tiba di tempat tujuan Medan sejauh 75.3km selama 69.51 menit

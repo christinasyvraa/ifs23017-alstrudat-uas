@@ -1,0 +1,32 @@
+Peta Jalur Wilayah:
+Ambon -> Sorong (600.0km), Makassar (1000.0km)
+Balikpapan -> Makassar (900.0km), Pontianak (1200.0km)
+Banda Aceh -> Medan (430.0km), Makassar (892.0km), Pontianak (800.0km)
+Bandung -> 
+Denpasar -> Surabaya (310.0km), Kupang (1200.0km)
+Jakarta -> Medan (1400.0km), Surabaya (790.0km)
+Jayapura -> Sorong (800.0km)
+Kupang -> Denpasar (1200.0km)
+Makassar -> Ambon (1000.0km), Balikpapan (900.0km), Banda Aceh (892.0km)
+Medan -> Banda Aceh (430.0km), Jakarta (1400.0km)
+Padang -> 
+Palembang -> 
+Pontianak -> Balikpapan (1200.0km), Banda Aceh (800.0km)
+Sorong -> Jayapura (800.0km), Ambon (600.0km)
+Surabaya -> Jakarta (790.0km), Denpasar (310.0km)
+
+Daftar Jarak terdekat dari Kupang ke Jayapura:
+Jalur 1 (7422.0km): Denpasar (1200.0km) -> Surabaya (310.0km) -> Jakarta (790.0km) -> Medan (1400.0km) -> Banda Aceh (430.0km) -> Makassar (892.0km) -> Ambon (1000.0km) -> Sorong (600.0km) -> Jayapura (800.0km)
+Jalur 2 (9430.0km): Denpasar (1200.0km) -> Surabaya (310.0km) -> Jakarta (790.0km) -> Medan (1400.0km) -> Banda Aceh (430.0km) -> Pontianak (800.0km) -> Balikpapan (1200.0km) -> Makassar (900.0km) -> Ambon (1000.0km) -> Sorong (600.0km) -> Jayapura (800.0km)
+
+Menggunakan Pesawat dari Jalur 1 sejauh 7422.0km dengan kecepatan 891km/jam.
+Waktu yang perlu ditempuh untuk mencapai tujuan: 499.8 menit
+-> Tiba di Denpasar sejauh 1200.0km selama 80.81 menit
+-> Tiba di Surabaya sejauh 310.0km selama 20.88 menit
+-> Tiba di Jakarta sejauh 790.0km selama 53.2 menit
+-> Tiba di Medan sejauh 1400.0km selama 94.28 menit
+-> Tiba di Banda Aceh sejauh 430.0km selama 28.96 menit
+-> Tiba di Makassar sejauh 892.0km selama 60.07 menit
+-> Tiba di Ambon sejauh 1000.0km selama 67.34 menit
+-> Tiba di Sorong sejauh 600.0km selama 40.4 menit
+-> Tiba di tempat tujuan Jayapura sejauh 800.0km selama 53.87 menit

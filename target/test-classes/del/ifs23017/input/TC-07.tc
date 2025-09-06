@@ -1,0 +1,14 @@
+Jakarta, Singapore, Tokyo, Seoul, Beijing, Dubai, Paris, New York, Los Angeles, Sydney
+Jakarta=>Singapore:890,Tokyo:5620
+Singapore=>Tokyo:5320,Beijing:4520
+Tokyo=>Seoul:1150,Beijing:2100
+Seoul=>Beijing:950,Dubai:6700
+Beijing=>Dubai:5840,Paris:8230
+Dubai=>Paris:5240,New York:11020
+Paris=>New York:5850,Los Angeles:9100
+New York=>Los Angeles:3940,Sydney:15990
+Los Angeles=>Sydney:12050,Jakarta:13720
+Sydney=>Jakarta:5630
+FINISH
+Jakarta=>Paris
+87|Menggunakan Pesawat Komersial|900

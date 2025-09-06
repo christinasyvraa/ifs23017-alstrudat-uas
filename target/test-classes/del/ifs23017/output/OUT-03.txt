@@ -1,0 +1,16 @@
+Peta Jalur Wilayah:
+Bandung -> Cianjur (75.0km), Garut (85.3km)
+Cianjur -> Sukabumi (60.2km), Bandung (75.0km)
+Garut -> Bandung (85.3km)
+Pelabuhan Ratu -> Sukabumi (45.5km)
+Sukabumi -> Pelabuhan Ratu (45.5km), Cianjur (60.2km)
+
+Daftar Jarak terdekat dari Garut ke Pelabuhan Ratu:
+Jalur 1 (266.0km): Bandung (85.3km) -> Cianjur (75.0km) -> Sukabumi (60.2km) -> Pelabuhan Ratu (45.5km)
+
+Menggunakan Mobil dari Jalur 1 sejauh 266.0km dengan kecepatan 70km/jam.
+Waktu yang perlu ditempuh untuk mencapai tujuan: 228.0 menit
+-> Tiba di Bandung sejauh 85.3km selama 73.11 menit
+-> Tiba di Cianjur sejauh 75.0km selama 64.29 menit
+-> Tiba di Sukabumi sejauh 60.2km selama 51.6 menit
+-> Tiba di tempat tujuan Pelabuhan Ratu sejauh 45.5km selama 39.0 menit

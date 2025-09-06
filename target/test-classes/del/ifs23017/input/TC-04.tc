@@ -1,0 +1,8 @@
+Semarang, Salatiga, Boyolali, Yogyakarta, Borobudur
+Semarang=>Salatiga:50.1
+Salatiga=>Boyolali:30.7
+Boyolali=>Yogyakarta:65.4
+Yogyakarta=>Borobudur:40.0
+FINISH
+Borobudur=>Semarang
+1|Bus Antarkota|60

@@ -1,0 +1,18 @@
+Banda Aceh, Medan, Pekanbaru, Palembang, Jakarta, Bandung, Yogyakarta, Surabaya, Denpasar, Mataram, Makassar, Manado, Balikpapan, Banjarmasin, Jayapura
+Banda Aceh=>Medan:325.0
+Medan=>Pekanbaru:450.5,Palembang:620.3
+Pekanbaru=>Jakarta:785.2
+Palembang=>Jakarta:560.0,Bandung:725.4
+Jakarta=>Bandung:150.3,Yogyakarta:550.7,Surabaya:790.1
+Bandung=>Yogyakarta:425.6,Denpasar:1200.0
+Yogyakarta=>Surabaya:330.8
+Surabaya=>Denpasar:310.5,Makassar:720.0
+Denpasar=>Mataram:125.0
+Mataram=>Makassar:480.3
+Makassar=>Manado:850.0,Balikpapan:450.2
+Manado=>Jayapura:1050.5
+Balikpapan=>Banjarmasin:350.7
+Banjarmasin=>Palembang:420.3
+FINISH
+Jayapura=>Banda Aceh
+40|Menggunakan Berbagai Kendaraan Umum|70

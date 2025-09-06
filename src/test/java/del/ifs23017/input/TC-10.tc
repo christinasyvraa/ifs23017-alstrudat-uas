@@ -1,0 +1,15 @@
+Banda Aceh, Medan, Padang, Jakarta, Bandung, Surabaya, Denpasar, Kupang, Jayapura, Sorong, Ambon, Makassar, Balikpapan, Pontianak, Palembang
+Banda Aceh=>Medan:430
+Medan=>Jakarta:1400
+Jakarta=>Surabaya:790
+Surabaya=>Denpasar:310
+Denpasar=>Kupang:1200
+Jayapura=>Sorong:800
+Sorong=>Ambon:600
+Ambon=>Makassar:1000
+Makassar=>Balikpapan:900,Banda Aceh:892
+Balikpapan=>Pontianak:1200
+Pontianak=>Banda Aceh:800
+FINISH
+Kupang=>Jayapura
+1|Menggunakan Pesawat|891

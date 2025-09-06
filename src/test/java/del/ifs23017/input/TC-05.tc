@@ -1,0 +1,8 @@
+Medan, Tebing Tinggi, Pematang Siantar, Parapat, Danau Toba
+Medan=>Tebing Tinggi:75.3
+Tebing Tinggi=>Pematang Siantar:45.2
+Pematang Siantar=>Parapat:60.8
+Parapat=>Danau Toba:15.5
+FINISH
+Danau Toba=>Medan
+1|Menggunakan Mobil|65

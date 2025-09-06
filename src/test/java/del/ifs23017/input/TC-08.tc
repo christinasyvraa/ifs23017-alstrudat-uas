@@ -1,0 +1,11 @@
+Bumi,Mars,Bulan,Europa,Titan,Enceladus,Venus,Merkurius
+Bumi=>Mars:78400,Bulan:384
+Mars=>Bulan:78400,Europa:628000
+Bulan=>Titan:1256000
+Europa=>Titan:671000,Enceladus:1270000
+Titan=>Enceladus:1200000
+Venus=>Bumi:41400,Merkurius:80000
+Merkurius=>Venus:50000
+FINISH
+Enceladus=>Venus
+5|Warp Drive|1000000

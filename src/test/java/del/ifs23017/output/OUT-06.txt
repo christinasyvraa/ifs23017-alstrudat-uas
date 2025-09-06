@@ -1,0 +1,76 @@
+Peta Jalur Wilayah:
+Balikpapan -> Makassar (450.2km), Banjarmasin (350.7km)
+Banda Aceh -> Medan (325.0km)
+Bandung -> Palembang (725.4km), Jakarta (150.3km), Yogyakarta (425.6km), Denpasar (1200.0km)
+Banjarmasin -> Balikpapan (350.7km), Palembang (420.3km)
+Denpasar -> Bandung (1200.0km), Surabaya (310.5km), Mataram (125.0km)
+Jakarta -> Pekanbaru (785.2km), Palembang (560.0km), Bandung (150.3km), Yogyakarta (550.7km), Surabaya (790.1km)
+Jayapura -> Manado (1050.5km)
+Makassar -> Surabaya (720.0km), Mataram (480.3km), Manado (850.0km), Balikpapan (450.2km)
+Manado -> Makassar (850.0km), Jayapura (1050.5km)
+Mataram -> Denpasar (125.0km), Makassar (480.3km)
+Medan -> Banda Aceh (325.0km), Pekanbaru (450.5km), Palembang (620.3km)
+Palembang -> Medan (620.3km), Jakarta (560.0km), Bandung (725.4km), Banjarmasin (420.3km)
+Pekanbaru -> Medan (450.5km), Jakarta (785.2km)
+Surabaya -> Jakarta (790.1km), Yogyakarta (330.8km), Denpasar (310.5km), Makassar (720.0km)
+Yogyakarta -> Jakarta (550.7km), Bandung (425.6km), Surabaya (330.8km)
+
+Daftar Jarak terdekat dari Jayapura ke Banda Aceh:
+Jalur 1 (4067.0km): Manado (1050.5km) -> Makassar (850.0km) -> Balikpapan (450.2km) -> Banjarmasin (350.7km) -> Palembang (420.3km) -> Medan (620.3km) -> Banda Aceh (325.0km)
+Jalur 2 (4915.9km): Manado (1050.5km) -> Makassar (850.0km) -> Surabaya (720.0km) -> Jakarta (790.1km) -> Palembang (560.0km) -> Medan (620.3km) -> Banda Aceh (325.0km)
+Jalur 3 (4971.3km): Manado (1050.5km) -> Makassar (850.0km) -> Surabaya (720.0km) -> Jakarta (790.1km) -> Pekanbaru (785.2km) -> Medan (450.5km) -> Banda Aceh (325.0km)
+Jalur 4 (5007.3km): Manado (1050.5km) -> Makassar (850.0km) -> Surabaya (720.0km) -> Yogyakarta (330.8km) -> Jakarta (550.7km) -> Palembang (560.0km) -> Medan (620.3km) -> Banda Aceh (325.0km)
+Jalur 5 (5032.5km): Manado (1050.5km) -> Makassar (850.0km) -> Surabaya (720.0km) -> Yogyakarta (330.8km) -> Bandung (425.6km) -> Jakarta (150.3km) -> Palembang (560.0km) -> Medan (620.3km) -> Banda Aceh (325.0km)
+Jalur 6 (5047.6km): Manado (1050.5km) -> Makassar (850.0km) -> Surabaya (720.0km) -> Yogyakarta (330.8km) -> Bandung (425.6km) -> Palembang (725.4km) -> Medan (620.3km) -> Banda Aceh (325.0km)
+Jalur 7 (5062.7km): Manado (1050.5km) -> Makassar (850.0km) -> Surabaya (720.0km) -> Yogyakarta (330.8km) -> Jakarta (550.7km) -> Pekanbaru (785.2km) -> Medan (450.5km) -> Banda Aceh (325.0km)
+Jalur 8 (5087.9km): Manado (1050.5km) -> Makassar (850.0km) -> Surabaya (720.0km) -> Yogyakarta (330.8km) -> Bandung (425.6km) -> Jakarta (150.3km) -> Pekanbaru (785.2km) -> Medan (450.5km) -> Banda Aceh (325.0km)
+Jalur 9 (5111.7km): Manado (1050.5km) -> Makassar (850.0km) -> Mataram (480.3km) -> Denpasar (125.0km) -> Surabaya (310.5km) -> Jakarta (790.1km) -> Palembang (560.0km) -> Medan (620.3km) -> Banda Aceh (325.0km)
+Jalur 10 (5167.1km): Manado (1050.5km) -> Makassar (850.0km) -> Mataram (480.3km) -> Denpasar (125.0km) -> Surabaya (310.5km) -> Jakarta (790.1km) -> Pekanbaru (785.2km) -> Medan (450.5km) -> Banda Aceh (325.0km)
+Jalur 11 (5203.1km): Manado (1050.5km) -> Makassar (850.0km) -> Mataram (480.3km) -> Denpasar (125.0km) -> Surabaya (310.5km) -> Yogyakarta (330.8km) -> Jakarta (550.7km) -> Palembang (560.0km) -> Medan (620.3km) -> Banda Aceh (325.0km)
+Jalur 12 (5228.3km): Manado (1050.5km) -> Makassar (850.0km) -> Mataram (480.3km) -> Denpasar (125.0km) -> Surabaya (310.5km) -> Yogyakarta (330.8km) -> Bandung (425.6km) -> Jakarta (150.3km) -> Palembang (560.0km) -> Medan (620.3km) -> Banda Aceh (325.0km)
+Jalur 13 (5231.6km): Manado (1050.5km) -> Makassar (850.0km) -> Surabaya (720.0km) -> Jakarta (790.1km) -> Bandung (150.3km) -> Palembang (725.4km) -> Medan (620.3km) -> Banda Aceh (325.0km)
+Jalur 14 (5242.4km): Manado (1050.5km) -> Makassar (850.0km) -> Balikpapan (450.2km) -> Banjarmasin (350.7km) -> Palembang (420.3km) -> Jakarta (560.0km) -> Pekanbaru (785.2km) -> Medan (450.5km) -> Banda Aceh (325.0km)
+Jalur 15 (5243.4km): Manado (1050.5km) -> Makassar (850.0km) -> Mataram (480.3km) -> Denpasar (125.0km) -> Surabaya (310.5km) -> Yogyakarta (330.8km) -> Bandung (425.6km) -> Palembang (725.4km) -> Medan (620.3km) -> Banda Aceh (325.0km)
+Jalur 16 (5258.5km): Manado (1050.5km) -> Makassar (850.0km) -> Mataram (480.3km) -> Denpasar (125.0km) -> Surabaya (310.5km) -> Yogyakarta (330.8km) -> Jakarta (550.7km) -> Pekanbaru (785.2km) -> Medan (450.5km) -> Banda Aceh (325.0km)
+Jalur 17 (5283.7km): Manado (1050.5km) -> Makassar (850.0km) -> Mataram (480.3km) -> Denpasar (125.0km) -> Surabaya (310.5km) -> Yogyakarta (330.8km) -> Bandung (425.6km) -> Jakarta (150.3km) -> Pekanbaru (785.2km) -> Medan (450.5km) -> Banda Aceh (325.0km)
+Jalur 18 (5323.0km): Manado (1050.5km) -> Makassar (850.0km) -> Surabaya (720.0km) -> Yogyakarta (330.8km) -> Jakarta (550.7km) -> Bandung (150.3km) -> Palembang (725.4km) -> Medan (620.3km) -> Banda Aceh (325.0km)
+Jalur 19 (5361.4km): Manado (1050.5km) -> Makassar (850.0km) -> Mataram (480.3km) -> Denpasar (125.0km) -> Bandung (1200.0km) -> Jakarta (150.3km) -> Palembang (560.0km) -> Medan (620.3km) -> Banda Aceh (325.0km)
+Jalur 20 (5376.5km): Manado (1050.5km) -> Makassar (850.0km) -> Mataram (480.3km) -> Denpasar (125.0km) -> Bandung (1200.0km) -> Palembang (725.4km) -> Medan (620.3km) -> Banda Aceh (325.0km)
+Jalur 21 (5416.8km): Manado (1050.5km) -> Makassar (850.0km) -> Mataram (480.3km) -> Denpasar (125.0km) -> Bandung (1200.0km) -> Jakarta (150.3km) -> Pekanbaru (785.2km) -> Medan (450.5km) -> Banda Aceh (325.0km)
+Jalur 22 (5427.4km): Manado (1050.5km) -> Makassar (850.0km) -> Mataram (480.3km) -> Denpasar (125.0km) -> Surabaya (310.5km) -> Jakarta (790.1km) -> Bandung (150.3km) -> Palembang (725.4km) -> Medan (620.3km) -> Banda Aceh (325.0km)
+Jalur 23 (5518.8km): Manado (1050.5km) -> Makassar (850.0km) -> Mataram (480.3km) -> Denpasar (125.0km) -> Surabaya (310.5km) -> Yogyakarta (330.8km) -> Jakarta (550.7km) -> Bandung (150.3km) -> Palembang (725.4km) -> Medan (620.3km) -> Banda Aceh (325.0km)
+Jalur 24 (5558.1km): Manado (1050.5km) -> Makassar (850.0km) -> Balikpapan (450.2km) -> Banjarmasin (350.7km) -> Palembang (420.3km) -> Bandung (725.4km) -> Jakarta (150.3km) -> Pekanbaru (785.2km) -> Medan (450.5km) -> Banda Aceh (325.0km)
+Jalur 25 (5786.6km): Manado (1050.5km) -> Makassar (850.0km) -> Surabaya (720.0km) -> Denpasar (310.5km) -> Bandung (1200.0km) -> Jakarta (150.3km) -> Palembang (560.0km) -> Medan (620.3km) -> Banda Aceh (325.0km)
+Jalur 26 (5801.7km): Manado (1050.5km) -> Makassar (850.0km) -> Surabaya (720.0km) -> Denpasar (310.5km) -> Bandung (1200.0km) -> Palembang (725.4km) -> Medan (620.3km) -> Banda Aceh (325.0km)
+Jalur 27 (5842.0km): Manado (1050.5km) -> Makassar (850.0km) -> Surabaya (720.0km) -> Denpasar (310.5km) -> Bandung (1200.0km) -> Jakarta (150.3km) -> Pekanbaru (785.2km) -> Medan (450.5km) -> Banda Aceh (325.0km)
+Jalur 28 (6057.6km): Manado (1050.5km) -> Makassar (850.0km) -> Surabaya (720.0km) -> Jakarta (790.1km) -> Yogyakarta (550.7km) -> Bandung (425.6km) -> Palembang (725.4km) -> Medan (620.3km) -> Banda Aceh (325.0km)
+Jalur 29 (6187.4km): Manado (1050.5km) -> Makassar (850.0km) -> Mataram (480.3km) -> Denpasar (125.0km) -> Bandung (1200.0km) -> Yogyakarta (425.6km) -> Jakarta (550.7km) -> Palembang (560.0km) -> Medan (620.3km) -> Banda Aceh (325.0km)
+Jalur 30 (6223.0km): Manado (1050.5km) -> Makassar (850.0km) -> Surabaya (720.0km) -> Yogyakarta (330.8km) -> Bandung (425.6km) -> Palembang (725.4km) -> Jakarta (560.0km) -> Pekanbaru (785.2km) -> Medan (450.5km) -> Banda Aceh (325.0km)
+Jalur 31 (6242.8km): Manado (1050.5km) -> Makassar (850.0km) -> Mataram (480.3km) -> Denpasar (125.0km) -> Bandung (1200.0km) -> Yogyakarta (425.6km) -> Jakarta (550.7km) -> Pekanbaru (785.2km) -> Medan (450.5km) -> Banda Aceh (325.0km)
+Jalur 32 (6253.4km): Manado (1050.5km) -> Makassar (850.0km) -> Mataram (480.3km) -> Denpasar (125.0km) -> Surabaya (310.5km) -> Jakarta (790.1km) -> Yogyakarta (550.7km) -> Bandung (425.6km) -> Palembang (725.4km) -> Medan (620.3km) -> Banda Aceh (325.0km)
+Jalur 33 (6384.1km): Manado (1050.5km) -> Makassar (850.0km) -> Balikpapan (450.2km) -> Banjarmasin (350.7km) -> Palembang (420.3km) -> Bandung (725.4km) -> Yogyakarta (425.6km) -> Jakarta (550.7km) -> Pekanbaru (785.2km) -> Medan (450.5km) -> Banda Aceh (325.0km)
+Jalur 34 (6418.8km): Manado (1050.5km) -> Makassar (850.0km) -> Mataram (480.3km) -> Denpasar (125.0km) -> Surabaya (310.5km) -> Yogyakarta (330.8km) -> Bandung (425.6km) -> Palembang (725.4km) -> Jakarta (560.0km) -> Pekanbaru (785.2km) -> Medan (450.5km) -> Banda Aceh (325.0km)
+Jalur 35 (6551.9km): Manado (1050.5km) -> Makassar (850.0km) -> Mataram (480.3km) -> Denpasar (125.0km) -> Bandung (1200.0km) -> Palembang (725.4km) -> Jakarta (560.0km) -> Pekanbaru (785.2km) -> Medan (450.5km) -> Banda Aceh (325.0km)
+Jalur 36 (6612.6km): Manado (1050.5km) -> Makassar (850.0km) -> Surabaya (720.0km) -> Denpasar (310.5km) -> Bandung (1200.0km) -> Yogyakarta (425.6km) -> Jakarta (550.7km) -> Palembang (560.0km) -> Medan (620.3km) -> Banda Aceh (325.0km)
+Jalur 37 (6668.0km): Manado (1050.5km) -> Makassar (850.0km) -> Surabaya (720.0km) -> Denpasar (310.5km) -> Bandung (1200.0km) -> Yogyakarta (425.6km) -> Jakarta (550.7km) -> Pekanbaru (785.2km) -> Medan (450.5km) -> Banda Aceh (325.0km)
+Jalur 38 (6757.6km): Manado (1050.5km) -> Makassar (850.0km) -> Mataram (480.3km) -> Denpasar (125.0km) -> Bandung (1200.0km) -> Yogyakarta (425.6km) -> Surabaya (330.8km) -> Jakarta (790.1km) -> Palembang (560.0km) -> Medan (620.3km) -> Banda Aceh (325.0km)
+Jalur 39 (6813.0km): Manado (1050.5km) -> Makassar (850.0km) -> Mataram (480.3km) -> Denpasar (125.0km) -> Bandung (1200.0km) -> Yogyakarta (425.6km) -> Surabaya (330.8km) -> Jakarta (790.1km) -> Pekanbaru (785.2km) -> Medan (450.5km) -> Banda Aceh (325.0km)
+Jalur 40 (6954.3km): Manado (1050.5km) -> Makassar (850.0km) -> Balikpapan (450.2km) -> Banjarmasin (350.7km) -> Palembang (420.3km) -> Bandung (725.4km) -> Yogyakarta (425.6km) -> Surabaya (330.8km) -> Jakarta (790.1km) -> Pekanbaru (785.2km) -> Medan (450.5km) -> Banda Aceh (325.0km)
+Jalur 41 (6977.1km): Manado (1050.5km) -> Makassar (850.0km) -> Surabaya (720.0km) -> Denpasar (310.5km) -> Bandung (1200.0km) -> Palembang (725.4km) -> Jakarta (560.0km) -> Pekanbaru (785.2km) -> Medan (450.5km) -> Banda Aceh (325.0km)
+Jalur 42 (7708.4km): Manado (1050.5km) -> Makassar (850.0km) -> Balikpapan (450.2km) -> Banjarmasin (350.7km) -> Palembang (420.3km) -> Bandung (725.4km) -> Denpasar (1200.0km) -> Surabaya (310.5km) -> Jakarta (790.1km) -> Pekanbaru (785.2km) -> Medan (450.5km) -> Banda Aceh (325.0km)
+Jalur 43 (7799.8km): Manado (1050.5km) -> Makassar (850.0km) -> Balikpapan (450.2km) -> Banjarmasin (350.7km) -> Palembang (420.3km) -> Bandung (725.4km) -> Denpasar (1200.0km) -> Surabaya (310.5km) -> Yogyakarta (330.8km) -> Jakarta (550.7km) -> Pekanbaru (785.2km) -> Medan (450.5km) -> Banda Aceh (325.0km)
+
+Menggunakan Berbagai Kendaraan Umum dari Jalur 40 sejauh 6954.3km dengan kecepatan 70km/jam.
+Waktu yang perlu ditempuh untuk mencapai tujuan: 5960.83 menit
+-> Tiba di Manado sejauh 1050.5km selama 900.43 menit
+-> Tiba di Makassar sejauh 850.0km selama 728.57 menit
+-> Tiba di Balikpapan sejauh 450.2km selama 385.89 menit
+-> Tiba di Banjarmasin sejauh 350.7km selama 300.6 menit
+-> Tiba di Palembang sejauh 420.3km selama 360.26 menit
+-> Tiba di Bandung sejauh 725.4km selama 621.77 menit
+-> Tiba di Yogyakarta sejauh 425.6km selama 364.8 menit
+-> Tiba di Surabaya sejauh 330.8km selama 283.54 menit
+-> Tiba di Jakarta sejauh 790.1km selama 677.23 menit
+-> Tiba di Pekanbaru sejauh 785.2km selama 673.03 menit
+-> Tiba di Medan sejauh 450.5km selama 386.14 menit
+-> Tiba di tempat tujuan Banda Aceh sejauh 325.0km selama 278.57 menit

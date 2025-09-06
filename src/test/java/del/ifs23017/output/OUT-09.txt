@@ -1,0 +1,26 @@
+Peta Jalur Wilayah:
+Bumi -> Mars (78.0km)
+Europa -> Jupiter (0.6km), Saturnus (650.0km)
+Exoplanet-X -> Pluto (5900.0km)
+Jupiter -> Mars (550.0km), Europa (0.6km)
+Mars -> Bumi (78.0km), Jupiter (550.0km)
+Neptunus -> Uranus (1600.0km), Pluto (2400.0km)
+Pluto -> Neptunus (2400.0km), Exoplanet-X (5900.0km)
+Saturnus -> Europa (650.0km), Titan (1.2km)
+Titan -> Saturnus (1.2km), Uranus (1400.0km)
+Uranus -> Titan (1400.0km), Neptunus (1600.0km)
+
+Daftar Jarak terdekat dari Exoplanet-X ke Bumi:
+Jalur 1 (12579.8km): Pluto (5900.0km) -> Neptunus (2400.0km) -> Uranus (1600.0km) -> Titan (1400.0km) -> Saturnus (1.2km) -> Europa (650.0km) -> Jupiter (0.6km) -> Mars (550.0km) -> Bumi (78.0km)
+
+Quantum Jump Drive dari Jalur 1 sejauh 12579.8km dengan kecepatan 1000000km/jam.
+Waktu yang perlu ditempuh untuk mencapai tujuan: 0.75 menit
+-> Tiba di Pluto sejauh 5900.0km selama 0.35 menit
+-> Tiba di Neptunus sejauh 2400.0km selama 0.14 menit
+-> Tiba di Uranus sejauh 1600.0km selama 0.1 menit
+-> Tiba di Titan sejauh 1400.0km selama 0.08 menit
+-> Tiba di Saturnus sejauh 1.2km selama 0.0 menit
+-> Tiba di Europa sejauh 650.0km selama 0.04 menit
+-> Tiba di Jupiter sejauh 0.6km selama 0.0 menit
+-> Tiba di Mars sejauh 550.0km selama 0.03 menit
+-> Tiba di tempat tujuan Bumi sejauh 78.0km selama 0.0 menit

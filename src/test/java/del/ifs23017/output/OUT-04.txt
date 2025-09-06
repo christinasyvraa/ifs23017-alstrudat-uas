@@ -1,0 +1,16 @@
+Peta Jalur Wilayah:
+Borobudur -> Yogyakarta (40.0km)
+Boyolali -> Salatiga (30.7km), Yogyakarta (65.4km)
+Salatiga -> Semarang (50.1km), Boyolali (30.7km)
+Semarang -> Salatiga (50.1km)
+Yogyakarta -> Boyolali (65.4km), Borobudur (40.0km)
+
+Daftar Jarak terdekat dari Borobudur ke Semarang:
+Jalur 1 (186.2km): Yogyakarta (40.0km) -> Boyolali (65.4km) -> Salatiga (30.7km) -> Semarang (50.1km)
+
+Bus Antarkota dari Jalur 1 sejauh 186.2km dengan kecepatan 60km/jam.
+Waktu yang perlu ditempuh untuk mencapai tujuan: 186.2 menit
+-> Tiba di Yogyakarta sejauh 40.0km selama 40.0 menit
+-> Tiba di Boyolali sejauh 65.4km selama 65.4 menit
+-> Tiba di Salatiga sejauh 30.7km selama 30.7 menit
+-> Tiba di tempat tujuan Semarang sejauh 50.1km selama 50.1 menit

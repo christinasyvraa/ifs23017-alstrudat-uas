@@ -1,0 +1,28 @@
+Peta Jalur Wilayah:
+Bulan -> Bumi (384.0km), Mars (78400.0km), Titan (1256000.0km)
+Bumi -> Mars (78400.0km), Bulan (384.0km), Venus (41400.0km)
+Enceladus -> Europa (1270000.0km), Titan (1200000.0km)
+Europa -> Mars (628000.0km), Titan (671000.0km), Enceladus (1270000.0km)
+Mars -> Bumi (78400.0km), Bulan (78400.0km), Europa (628000.0km)
+Merkurius -> Venus (80000.0km), Venus (50000.0km)
+Titan -> Bulan (1256000.0km), Europa (671000.0km), Enceladus (1200000.0km)
+Venus -> Bumi (41400.0km), Merkurius (80000.0km), Merkurius (50000.0km)
+
+Daftar Jarak terdekat dari Enceladus ke Venus:
+Jalur 1 (2017800.0km): Europa (1270000.0km) -> Mars (628000.0km) -> Bumi (78400.0km) -> Venus (41400.0km)
+Jalur 2 (2018184.0km): Europa (1270000.0km) -> Mars (628000.0km) -> Bulan (78400.0km) -> Bumi (384.0km) -> Venus (41400.0km)
+Jalur 3 (2497784.0km): Titan (1200000.0km) -> Bulan (1256000.0km) -> Bumi (384.0km) -> Venus (41400.0km)
+Jalur 4 (2618800.0km): Titan (1200000.0km) -> Europa (671000.0km) -> Mars (628000.0km) -> Bumi (78400.0km) -> Venus (41400.0km)
+Jalur 5 (2619184.0km): Titan (1200000.0km) -> Europa (671000.0km) -> Mars (628000.0km) -> Bulan (78400.0km) -> Bumi (384.0km) -> Venus (41400.0km)
+Jalur 6 (2654200.0km): Titan (1200000.0km) -> Bulan (1256000.0km) -> Mars (78400.0km) -> Bumi (78400.0km) -> Venus (41400.0km)
+Jalur 7 (3238784.0km): Europa (1270000.0km) -> Titan (671000.0km) -> Bulan (1256000.0km) -> Bumi (384.0km) -> Venus (41400.0km)
+Jalur 8 (3395200.0km): Europa (1270000.0km) -> Titan (671000.0km) -> Bulan (1256000.0km) -> Mars (78400.0km) -> Bumi (78400.0km) -> Venus (41400.0km)
+
+Warp Drive dari Jalur 5 sejauh 2619184.0km dengan kecepatan 1000000km/jam.
+Waktu yang perlu ditempuh untuk mencapai tujuan: 157.15 menit
+-> Tiba di Titan sejauh 1200000.0km selama 72.0 menit
+-> Tiba di Europa sejauh 671000.0km selama 40.26 menit
+-> Tiba di Mars sejauh 628000.0km selama 37.68 menit
+-> Tiba di Bulan sejauh 78400.0km selama 4.7 menit
+-> Tiba di Bumi sejauh 384.0km selama 0.02 menit
+-> Tiba di tempat tujuan Venus sejauh 41400.0km selama 2.48 menit

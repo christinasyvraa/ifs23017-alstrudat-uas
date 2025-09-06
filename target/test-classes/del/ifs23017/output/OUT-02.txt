@@ -1,0 +1,14 @@
+Peta Jalur Wilayah:
+Aek Bolon Jae -> Aek Bolon Julu (4.2km), Bonan Dolok (3.6km)
+Aek Bolon Julu -> Aek Bolon Jae (4.2km), Lumban Bagasan (3.3km)
+Bonan Dolok -> Aek Bolon Jae (3.6km), Lumban Bagasan (5.1km)
+Lumban Bagasan -> Bonan Dolok (5.1km), Aek Bolon Julu (3.3km)
+
+Daftar Jarak terdekat dari Lumban Bagasan ke Aek Bolon Jae:
+Jalur 1 (7.5km): Aek Bolon Julu (3.3km) -> Aek Bolon Jae (4.2km)
+Jalur 2 (8.7km): Bonan Dolok (5.1km) -> Aek Bolon Jae (3.6km)
+
+Menggunakan Sepeda Motor dari Jalur 1 sejauh 7.5km dengan kecepatan 40km/jam.
+Waktu yang perlu ditempuh untuk mencapai tujuan: 11.25 menit
+-> Tiba di Aek Bolon Julu sejauh 3.3km selama 4.95 menit
+-> Tiba di tempat tujuan Aek Bolon Jae sejauh 4.2km selama 6.3 menit
